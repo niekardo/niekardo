@@ -2,7 +2,7 @@
 
 I'm Nick, a CS student from Germany. Currently I'm working on my bachelors thesis.
 
-Unfortunately, even after 3 years of studying, I'm barely able to programm on my own.
+Unfortunately, even after 3 years of studying, I'm barely able to program on my own.
 
 Here I'm trying to be a better version of myself and actually study this time. I'll try to do at least one commit each day, even if it's just one line of code...
 
