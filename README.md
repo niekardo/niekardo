@@ -7,10 +7,10 @@ Unfortunately, even after 3 years of studying, I'm barely able to program on my 
 Here I'm trying to be a better version of myself and actually study this time. I'll try to do at least one commit each day, even if it's just one line of code...
 
 ## A Bit About Me
-- I have two cats but they live with my mum. :(
-- I play a little bit of guitar.
-- Obviously I love video gaming (especially Overwatch, even if i suck lol)
-- Sometimes I enjoy reading but I have a hard time staying concentrated
+- 🐈 I have two cats but they live with my mum. :(
+- 🎸 I play a little bit of guitar.
+- 🎮 Obviously I love video gaming (especially Overwatch, even if i suck lol)
+- 📖 Sometimes I enjoy reading but I have a hard time staying concentrated
 
 <!--
 **niekardo/niekardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
