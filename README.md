@@ -5,7 +5,7 @@ I'm Nick, a CS student from Germany. Currently I'm working on my bachelors thesi
 Unfortunately, even after 3 years of studying, I'm barely able to program on my own.
 
 Here I'm trying to be a better version of myself and actually study this time. I'll try to do at least one commit each day, even if it's just one line of code...
-That doesn't sound much I know, but my goal is it to make it a habit at first.
+That doesn't sound like a lot I know, but my goal is to make it a habit at first.
 
 ## A Bit About Me
 - 🐈 I have two cats but they live with my mum. :(
